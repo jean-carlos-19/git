@@ -9,3 +9,7 @@ body{
     background: #222222;
     color: #eeeeee;
 }
+.contenedor{
+    margin: 2rem;
+    padding: 1rem;
+}
