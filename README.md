@@ -8,6 +8,7 @@ En este curso aprenderás:
 -Trabajo Colaborativo 
 -ramas
 -fue modificado desde gihub
+-que paso
 -.. y mucho más
 
 # Rama de desarrollo
