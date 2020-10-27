@@ -7,6 +7,7 @@ En este curso aprenderás:
 -Comando basicos
 -Trabajo Colaborativo 
 -ramas
+-fue modificado desde gihub
 -.. y mucho más
 
 # Rama de desarrollo
